@@ -1,0 +1,1 @@
+# array-of-3-symbols
