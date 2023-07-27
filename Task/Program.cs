@@ -12,3 +12,7 @@ void SecondArrayWithIF(string[] array1, string[] array2)
         }
     }
 }
+PrintArray(array1);
+SecondArrayWithIF(array1, array2);
+PrintArray(array2);
+Console.ReadKey();
